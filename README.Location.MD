@@ -74,3 +74,5 @@ Objetivo da atividade
 
 ### Porquê utilizar o expo Location?
  - Ele é importante para a procura de localização em tempo real
+
+<-- Eu tentei de verdade -->
