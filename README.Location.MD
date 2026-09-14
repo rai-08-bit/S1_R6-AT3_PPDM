@@ -76,7 +76,7 @@ Objetivo da atividade
 }
  ```
 
- ![Exemplo da utilização do Expo Location com o método de Latitude | Longitude](./images/LatLong.png)
+ ![Exemplo da utilização do Expo Location com o método de Latitude | Longitude](./images/location/LatLong.png)
 
    #### Método de desmembramento Latitude | Longitude - Localização exata
 
@@ -167,11 +167,11 @@ Objetivo da atividade
   );
 }```
 
- ![Exemplo da utilização do Expo Location com o método de localização exata](./images/LocExata.png)
+ ![Exemplo da utilização do Expo Location com o método de localização exata](./images/location/LocExata.png)
 
-  ### Porquê utilizar o expo Location?
+  ### Por quê utilizar o expo Location?
  - Ele é importante para a procura de localização em tempo real, ou seja, a biblioteca Expo Location permite a visualização em tempo real do usuário, estando sempre de acordo com o local onde o indíviduo se encontra, uma vez que, ao se movimentar, a biblioteca atualizará a localização atual.
  - Ademais, a biblioteca é multiplataforma, sendo ela disponível para iOS, web e Android.
 
   ### Conclusão
- - o Expo Location é uma biblioteca do Expo, que é de fácil instalação e manipulação, além de ter segurança garantida. Com ela, é possível manipular dados de localização do usuário indepentende de onde ele se encontrar.
+ - o Expo Location é uma biblioteca do Expo, que é de fácil instalação e manipulação, além de ter segurança garantida. Com ela, é possível manipular dados de localização do usuário independente de onde ele se encontrar.
