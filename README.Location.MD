@@ -175,3 +175,11 @@ Objetivo da atividade
 
   ### Conclusão
  - o Expo Location é uma biblioteca do Expo, que é de fácil instalação e manipulação, além de ter segurança garantida. Com ela, é possível manipular dados de localização do usuário independente de onde ele se encontrar.
+
+ # Referências utilizadas
+
+- Documentação oficial Expo Network: 
+<https://docs.expo.dev/versions/latest/sdk/location/>
+
+- Documentações e instalação do Expo Network:
+<https://www.npmjs.com/package/expo-location>
